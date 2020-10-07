@@ -39,7 +39,7 @@ Node classes list of k8s provider.
 
 - **diagrams.k8s.dns.ExternalDns**
 
-## k8s.ecosystem
+## k8s.echosystem
 
 
 ## k8s.group
